@@ -1,0 +1,8 @@
+Crie uma pasta chamada Parte1 na área de trabalho
+
+Abra dentro da pasta o CMD (prompt de comando)
+
+DIGITE:
+git clone (cole o link do seu repositório do GitHub)
+
+Depois abra a pasta no Visual Studio Code.

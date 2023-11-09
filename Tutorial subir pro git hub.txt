@@ -1,0 +1,31 @@
+Abra o git bash no visual studio code (no terminal mude para bash)
+
+     > cd (coloque o nome da pasta da sua workspace para entrar nela e realizar os comandos)
+
+1. git init
+
+2. git config --global user.name "insira seu nome aqui!"
+
+3. git config --global user.email "insira seu e-mail aqui!"
+
+4. git status (aparece as pastas em vermelho para add) ou ( caso sua pasta apareça 
+
+5. git add .
+
+6. git status (verificar se as pastas ficou verde
+
+7. git commit -m "Meu primeiro projeto em Angular"
+
+8. git remote add origin <seu link do gitHub>
+
+9. git remote -v (precisa aparecer os dois: fecth e push)
+
+git remote remove master (caso não apareça fecth e push digite o comando e faz passo 9. git remote -v , de novo)
+
+10. git push -u origin master
+
+caso não for executado o passo 10. digite o código:
+
+git remote set-url origin <seu link do gitHub>
+
+e depois volte para o passo 8. e continue até o 10.
